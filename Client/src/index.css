@@ -1,0 +1,11 @@
+@import "tailwindcss";
+.active {/*now aa class automatic browser ma je link active hase tema add thai jase so we can apply our css*/
+    /* display: block; */
+  color: rgb(153, 153, 242);
+}
+::-webkit-scrollbar{
+  display: none;
+}
+#map {
+  height: 400px;
+}

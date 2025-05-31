@@ -1,0 +1,51 @@
+{
+  "engines": {
+    "node": "18.17.1"
+  },
+  "name": "major-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@coreui/react": "^5.7.0",
+    "@coreui/react-pro": "^5.15.0",
+    "@date-io/dayjs": "^3.2.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mapbox/mapbox-sdk": "^0.16.1",
+    "@mui/material": "^7.1.0",
+    "@mui/x-date-pickers": "^8.5.0",
+    "@mui/x-date-pickers-pro": "^8.5.0",
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^1.21.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^5.1.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "ejs-mate": "^4.0.0",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "method-override": "^3.0.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.7.1",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^8.0.0",
+    "react-date-range": "^2.0.1",
+    "validator": "^13.15.0"
+  },
+  "description": ""
+}
